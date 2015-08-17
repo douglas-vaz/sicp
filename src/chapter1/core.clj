@@ -27,4 +27,5 @@
     0
     y))
 
-(load "core_sqrt")
+(load "sqrt")
+(load "pascal")
